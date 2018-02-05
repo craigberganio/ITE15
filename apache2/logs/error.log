@@ -1,8 +1,6 @@
-[Sun Feb 04 11:47:02.202464 2018] [mpm_winnt:notice] [pid 7980:tid 812] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Sun Feb 04 11:47:02.245667 2018] [mpm_winnt:notice] [pid 7980:tid 812] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Sun Feb 04 11:47:02.245667 2018] [core:notice] [pid 7980:tid 812] AH00094: Command line: 'C:\\Users\\Craig\\Desktop\\ITE15/apache2/bin/httpd_usbwv8.exe -d C:/Users/Craig/Desktop/ITE15/apache2'
-[Sun Feb 04 11:47:02.480281 2018] [mpm_winnt:notice] [pid 7980:tid 812] AH00418: Parent: Created child process 15080
-[Sun Feb 04 11:47:03.558416 2018] [mpm_winnt:notice] [pid 15080:tid 4] AH00354: Child: Starting 64 worker threads.
-[Sun Feb 04 11:48:06.211229 2018] [:error] [pid 15080:tid 1332] [client ::1:54490] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\Users\\Craig\\Desktop\\ITE15\\root\\Wordpress\\wp-content\\themes\\hestia\\inc\\sections\\hestia-shop-section.php on line 9
-[Sun Feb 04 11:49:38.596965 2018] [:error] [pid 15080:tid 1328] [client ::1:54614] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\Users\\Craig\\Desktop\\ITE15\\root\\Wordpress\\wp-includes\\Requests\\Transport\\cURL.php on line 437, referer: http://localhost/wordpress/wp-cron.php?doing_wp_cron=1517716144.8715620040893554687500
-[Sun Feb 04 11:52:17.443487 2018] [:error] [pid 15080:tid 1308] [client ::1:54897] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\Users\\Craig\\Desktop\\ITE15\\root\\Wordpress\\wp-includes\\Requests\\Transport\\cURL.php on line 437, referer: http://localhost/wordpress/wp-login.php
+[Mon Feb 05 15:16:31.817522 2018] [mpm_winnt:notice] [pid 1012:tid 652] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Feb 05 15:16:31.817522 2018] [mpm_winnt:notice] [pid 1012:tid 652] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Feb 05 15:16:31.817522 2018] [core:notice] [pid 1012:tid 652] AH00094: Command line: 'C:\\Users\\ite152a-48\\Desktop\\ITE15/apache2/bin/httpd_usbwv8.exe -d C:/Users/ite152a-48/Desktop/ITE15/apache2'
+[Mon Feb 05 15:16:31.817522 2018] [mpm_winnt:notice] [pid 1012:tid 652] AH00418: Parent: Created child process 1720
+[Mon Feb 05 15:16:32.380032 2018] [mpm_winnt:notice] [pid 1720:tid 708] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 05 15:23:05.299536 2018] [:error] [pid 1720:tid 1184] [client ::1:1897] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\Users\\ite152a-48\\Desktop\\ITE15\\root\\Wordpress\\wp-includes\\Requests\\Transport\\cURL.php on line 462, referer: http://localhost/wordpress/wp-admin/themes.php?page=hestia-welcome&tab=recommended_actions
